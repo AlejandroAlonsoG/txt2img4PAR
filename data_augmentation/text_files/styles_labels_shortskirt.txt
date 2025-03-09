@@ -1,0 +1,17 @@
+casual t-shirt [ub-TShirt]
+business casual outfit with a button-up shirt [ub-Shirt]
+jacket over a t-shirt [ub-Jacket]
+hoodie [ub-Sweater]
+sporty outfit with a windbreaker [shoes-Sport]
+leather jacket and jeans, streetwear style [ub-Jacket]
+long overcoat over a sweater
+short-sleeved shirt [ub-ShortSleeve]
+winter coat and scarf, layered for colder weather
+light jacket and jeans, appropriate for indoor walking [ub-Jacket]
+blazer with a button-up shirt
+polo shirt, semi-casual look
+denim jacket with a t-shirt and sneakers [shoes-Sport]
+sweater over a collared shirt [ub-Sweater]
+windbreaker, outdoor casual style
+puffer jacket, typical for colder weather [ub-Jacket]
+cardigan over a long-sleeve shirt [ub-Shirt]

@@ -1,0 +1,14 @@
+#is a bald asian person#hs-BaldHead
+#is an asian person wearing a short skirt with tights or leggings
+#is an asian kid or teenager clearly not older than 15 years old
+#is a female asian child
+#is an asian person carrying a single paper bag
+#is an asian person carrying multiple paper bags
+#is an asian person carrying a single colorful paper bag
+#is an Asian person wearing a suit jacket left open
+#is an Asian person wearing a suit jacket buttoned up
+#is an Asian person wearing a blazer left open
+#is an Asian person wearing a blazer buttoned up
+is an Asian person pulling a suitcase
+is an Asian person pulling an empty handcart
+is an Asian person pulling a handcart loaded with boxes

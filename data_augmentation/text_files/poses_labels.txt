@@ -1,0 +1,27 @@
+walking
+standing still
+using a smartphone [action-Calling, action-Talking]
+holding a shopping bag [attach-PlasticBag/attach-PaperBag, action-Holding, action-CarrybyArm/action-CarrybyHand]
+carrying a backpack [attach-Backpack, action-CarrybyArm/action-CarrybyHand]
+carrying a shoulder bag [attach-SingleShoulderBag, action-CarrybyArm/action-CarrybyHand]
+carrying a small bag in the front [attach-HandBag, action-CarrybyArm/action-CarrybyHand]
+carrying a small bag on the side [attach-HandBag, action-CarrybyArm/action-CarrybyHand]
+holding a shopping bag with both hands [action-CarrybyHand]
+hands in pockets
+crossing arms while standing
+adjusting clothing
+looking to the side
+looking down at a phone [action-Calling]
+walking while holding a coffee cup [action-Holding]
+standing with one hand on hip
+holding a jacket [action-Holding]
+carrying a jacket over the shoulder [action-CarrybyArm]
+holding a water bottle [action-Holding]
+carrying multiple items in hand [action-Holding]
+moving with hands behind the back
+holding paper or documents [action-Holding]
+holding a box [attach-Box, action-Holding]
+checking or exploring a box
+carrying a box [attach-Box, action-Holding]
+moving cotton or large items [action-Holding]
+carrying multiple bags [action-CarrybyArm/action-CarrybyHand]

@@ -1,0 +1,18 @@
+casual t-shirt and jeans [ub-TShirt, lb-Jeans]
+formal business suit with a tie [ub-SuitUp]
+business casual outfit with a button-up shirt and slacks [ub-Shirt]
+jacket over a t-shirt with jeans [ub-Jacket, lb-Jeans]
+hoodie and sweatpants [ub-Sweater]
+sporty outfit with a windbreaker and jogging pants [shoes-Sports]
+leather jacket and jeans, streetwear style [ub-Jacket, lb-Jeans]
+long overcoat over a sweater and slacks
+short-sleeved shirt with chinos [lb-TightTrousers, ub-ShortSleeve]
+winter coat and scarf, layered for colder weather
+light jacket and jeans, appropriate for indoor walking [ub-Jacket, lb-Jeans]
+blazer with a button-up shirt and chinos [lb-TightTrousers]
+polo shirt with khaki pants, semi-casual look
+denim jacket with a t-shirt and sneakers [shoes-Sports]
+sweater over a collared shirt with dress pants [ub-Sweater]
+windbreaker and jeans, outdoor casual style [lb-Jeans]
+puffer jacket with casual pants, typical for colder weather [ub-Jacket]
+cardigan over a long-sleeve shirt and jeans [lb-Jeans, ub-Shirt]

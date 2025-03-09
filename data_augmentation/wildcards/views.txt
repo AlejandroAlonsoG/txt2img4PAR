@@ -1,0 +1,8 @@
+# This file refers to different views we can have of the pedestrian themself. They should not interfere with other wildcards
+
+a clear front view of the subject, facing directly toward the camera
+a complete side view of the subject, captured in profile
+a clear view of the back of the person, captured from behind
+a high angle view of the pedestrian facing directly toward the camera
+a high angle view of the profile of the pedestrian
+a high angle view of the back of the pedestrian, as the image is captured from behind

@@ -1,0 +1,7 @@
+is a bald asian person [hs-BaldHead]
+is wearing a short-skirt [lb-ShortSkirt]
+is an asian person wearing a short skirt [lb-ShortSkirt]
+is an asian person wearing a short skirt with tights or leggings [lb-ShortSkirt]
+is under 16 years old [AgeLess16]
+is an asian kid or teenager clearly not older than 15 years old [AgeLess16]
+is a female asian child [AgeLess16]

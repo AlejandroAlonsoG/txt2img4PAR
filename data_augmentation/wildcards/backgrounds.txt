@@ -1,0 +1,25 @@
+# This file refers to different backgrounds of the image. They have to be related to the dataset
+
+#an airport bright corridor
+#an airport dark corridor
+#front of some boxes on an storage room
+#front of a souvenir shop on an airport
+
+
+# Add on 
+
+#shopping mall
+a shopping mall interior with glass storefronts
+a shopping center walkway
+an indoor shopping mall food court
+an indoor escalator near shops
+an indoor walkway near escalators
+
+#office
+an indoor office building corridor
+an office lobby with elevators
+an indoor public lobby with seating
+
+#transit station
+an airport terminal waiting area
+an airport security checkpoint
